@@ -25,3 +25,6 @@ cd latganov
 python oogiya.py
 
 instruction to use check image.. thanks
+
+
+***this repo need weekly update, if doesnt run. message the author***
